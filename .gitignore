@@ -1,0 +1,43 @@
+# Dataset files
+data/
+datasets/
+*.csv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Kaggle cache
+.kaggle/
+kagglehub/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
