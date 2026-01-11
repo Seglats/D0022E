@@ -15,6 +15,7 @@ datasets/
 *.tar
 *.tar.gz
 *.gz
+*.pkl
 
 # Kaggle cache
 .kaggle/
