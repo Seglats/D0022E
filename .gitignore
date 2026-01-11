@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dataset files
 data/
 datasets/
@@ -41,3 +42,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
+=======
+/Data/
+>>>>>>> b567ac8 (merge requirments)
